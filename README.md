@@ -1,46 +1,43 @@
-<p align="center">
-  <svg width="100%" height="200">
-    <defs>
-      <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00f2ff" />
-        <stop offset="50%" stop-color="#ff00f2" />
-        <stop offset="100%" stop-color="#00ff90" />
-      </linearGradient>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi+I'm+YOUR_NAME!&height=200&fontSize=40&animation=fadeIn&fontAlignY=40" />
 
-      <filter id="neonGlow">
-        <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
+## 👋 About Me
+✨ I’m a passionate **[your role]** who loves building beautiful, functional digital experiences.  
+🌱 Currently learning: **[tools/technologies]**  
+🎯 Goal for 2025: **[your goal]**
 
-      <style>
-        @keyframes float {
-          0% { transform: translateY(0px); opacity: 1; }
-          50% { transform: translateY(-10px); opacity: 0.85; }
-          100% { transform: translateY(0px); opacity: 1; }
-        }
+---
 
-        @keyframes glitch {
-          0% { transform: translate(0px); }
-          20% { transform: translate(-2px, 1px); }
-          40% { transform: translate(2px, -1px); }
-          60% { transform: translate(-1px, 2px); }
-          80% { transform: translate(1px, -2px); }
-          100% { transform: translate(0px); }
-        }
-      </style>
-    </defs>
+## 🛠️ Tech Stack
+<div align="center">
+  
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,git,github,docker,figma&perline=8)
 
-    <circle cx="15%" cy="40%" r="25" fill="url(#neonGrad)" filter="url(#neonGlow)" style="animation: float 4s ease-in-out infinite;" />
-    <circle cx="85%" cy="60%" r="20" fill="url(#neonGrad)" filter="url(#neonGlow)" style="animation: float 6s ease-in-out infinite reverse;" />
-    <circle cx="50%" cy="30%" r="30" fill="url(#neonGrad)" filter="url(#neonGlow)" style="animation: float 5s ease-in-out infinite;" />
+</div>
 
-    <text x="50%" y="55%" text-anchor="middle" font-size="42" font-family="Orbitron, sans-serif"
-          fill="url(#neonGrad)" filter="url(#neonGlow)"
-          style="animation: glitch 2.5s infinite;">
-      WELCOME TO MY GITHUB
-    </text>
-  </svg>
-</p>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+
+</div>
+
+---
+
+## 🎨 Featured Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🚀 **Project 1** | Short description | React, Node |
+| 🧩 **Project 2** | Short description | Python |
+| 🎛️ **Project 3** | Short description | Next.js |
+
+---
+
+## 🌐 Connect With Me
+<a href="https://linkedin.com/in/..."><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"></a>
+
