@@ -20,21 +20,21 @@
 
 ---
 
-## 🎵 Favorite Songs
+## 🎵 Favorite Songs (Animated “Now Playing”)
 <p align="center">
 <a href="https://www.youtube.com/watch?v=LYU-8IFcDPw" target="_blank">
-  <img src="https://img.shields.io/badge/Sting_-_I'll_Be_Missing_You-FF69B4?style=for-the-badge&logo=spotify&logoColor=white">
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="180">
+  <br>Sting – I’ll Be Missing You
 </a>
 <a href="https://www.youtube.com/watch?v=ApXoWvfEYVU" target="_blank">
-  <img src="https://img.shields.io/badge/Post_Malone_&_Swae_Lee_-_Sunflower-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="180">
+  <br>Post Malone & Swae Lee – Sunflower
 </a>
 </p>
 
 ---
 
-<!-- ============================ -->
-<!-- 🌌 PARTICLES & EMOJI RAIN -->
-<!-- ============================ -->
+## 🌌 PARTICLES & EMOJI RAIN
 <p align="center">
   <img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="100%">
 </p>
@@ -45,36 +45,28 @@
 
 ---
 
-<!-- ============================ -->
-<!-- 🌟 GLOWING BORDER CARD -->
-<!-- ============================ -->
+## 🌟 GLOWING BORDER CARD
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="70%">
 </p>
 
 ---
 
-<!-- ============================ -->
-<!-- 🟩 MATRIX FALLING CODE -->
-<!-- ============================ -->
+## 🟩 MATRIX FALLING CODE
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%">
 </p>
 
 ---
 
-<!-- ============================ -->
-<!-- 🛠️ TECH STACK -->
-<!-- ============================ -->
+## 🛠️ TECH STACK
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,vscode&perline=8">
 </p>
 
 ---
 
-<!-- ============================ -->
-<!-- 📊 GITHUB STATS -->
-<!-- ============================ -->
+## 📊 GITHUB STATS
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlfaCefOf&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://streak-stats.demolab.com?user=AlfaCefOf&theme=neon-palenight&hide_border=true" />
@@ -87,9 +79,7 @@
 
 ---
 
-<!-- ============================ -->
-<!-- 🐍 SNAKE CONTRIBUTIONS -->
-<!-- ============================ -->
+## 🐍 SNAKE CONTRIBUTIONS
 <p align="center">
   <img src="https://github.com/AlfaCefOf/AlfaCefOf/blob/output/github-contribution-grid-snake.svg">
 </p>
@@ -106,6 +96,14 @@
 
 ---
 
+## 😂 Fun GIFs
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="220" title="Funny GIF 1">
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="220" title="Funny GIF 2">
+</p>
+
+---
+
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
@@ -115,18 +113,14 @@
 
 ---
 
-<!-- ============================ -->
-<!-- 🎆 ANIMATED DIVIDER -->
-<!-- ============================ -->
+## 🎆 Animated Divider
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 </p>
 
 ---
 
-<!-- ============================ -->
-<!-- 🪄 THANK YOU VISITORS -->
-<!-- ============================ -->
+## 🪄 THANK YOU VISITORS
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="300">
 </p>
