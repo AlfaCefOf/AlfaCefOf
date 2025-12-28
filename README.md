@@ -1,8 +1,8 @@
 <!-- ============================ -->
-<!-- ✨ HEADER + BANNER -->
+<!-- ✨ HEADER BANNER -->
 <!-- ============================ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=45&duration=4000&color=F700FF&center=true&vCenter=true&width=850&lines=⚡+Welcome+to+AlfaCefOf's+Universe+⚡;Frontend+Developer+%7C+UI+Artist+%7C+JS+Wizard;Animations+%E2%9A%A1+Design+%F0%9F%8C%88+Creativity+%F0%9F%94%A5;Always+Learning+New+Tech+%F0%9F%93%9A"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=45&duration=4000&color=F700FF&center=true&vCenter=true&width=850&lines=⚡+Welcome+to+AlfaCefOf's+Universe+⚡;Frontend+Developer+%7C+UI+Artist+%7C+JS+Wizard;Animations+%E2%9A%A1+Design+%F0%9F%8C%88+Creativity+%F0%9F%94%A5"/>
 </p>
 
 <p align="center">
@@ -11,15 +11,24 @@
 
 ---
 
-<!-- ============================ -->
-<!-- 💫 ABOUT ME -->
-<!-- ============================ -->
 ## 👋 About Me
 - 🔹 **Name:** AlfaCefOf  
 - 🔹 **Role:** Frontend Developer & UI/UX Designer  
 - 🔹 **Skills:** HTML, CSS, JS, JSX, Tailwind, Git, React  
 - 🔹 **Goals:** Build interactive, animated, visually stunning web apps  
 - 🔹 **Fun Fact:** I love experimenting with animations, glowing designs, and neon themes  
+
+---
+
+## 🎵 Favorite Songs
+<p align="center">
+<a href="https://www.youtube.com/watch?v=LYU-8IFcDPw" target="_blank">
+  <img src="https://img.shields.io/badge/Sting_-_I'll_Be_Missing_You-FF69B4?style=for-the-badge&logo=spotify&logoColor=white">
+</a>
+<a href="https://www.youtube.com/watch?v=ApXoWvfEYVU" target="_blank">
+  <img src="https://img.shields.io/badge/Post_Malone_&_Swae_Lee_-_Sunflower-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+</a>
+</p>
 
 ---
 
@@ -55,7 +64,7 @@
 ---
 
 <!-- ============================ -->
-<!-- 🛠️ TECH STACK (Animated) -->
+<!-- 🛠️ TECH STACK -->
 <!-- ============================ -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,vscode&perline=8">
@@ -87,9 +96,6 @@
 
 ---
 
-<!-- ============================ -->
-<!-- 📂 FEATURED PROJECTS -->
-<!-- ============================ -->
 ## 🧩 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -100,9 +106,6 @@
 
 ---
 
-<!-- ============================ -->
-<!-- 🌐 CONNECT WITH ME -->
-<!-- ============================ -->
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
