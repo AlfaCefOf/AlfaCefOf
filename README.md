@@ -1,63 +1,91 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,+I'm+AlfaCefOf!&fontSize=45&animation=fadeIn&fontAlignY=35" />
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=wave&animation=twinkling&color=0:ff00cc,100:3333ff&height=220&section=header&text=⚡%20AlfaCefOf%20⚡&fontSize=55&fontAlignY=35" />
 
 <div align="center">
 
-### ✨ Frontend Developer | UI Stylist | Creative Coder
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=F72EFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI+Designer;Tailwind+Expert;Creative+JavaScript+Builder;Always+Learning+New+Magic" />
 
 </div>
 
 ---
 
-## 🚀 About Me  
-🎨 I love building **beautiful, modern, and clean UIs**.  
-💻 I work mainly with **HTML, CSS, Tailwind, JavaScript, JSX**.  
-🔧 I use **Git & GitHub** for all my projects.  
-🌱 Always learning new stuff to level up my frontend game.
+## 🎨 About Me  
+I create **beautiful**, **animated**, and **modern** user interfaces using:  
+**HTML, CSS, JavaScript, Tailwind, JSX, Git**  
+I love adding **movement**, **glow**, **neon**, and **unique visuals** to my projects.
 
 ---
 
-## 🛠️ My Tech Stack  
+## 🚀 My Animated Tech Stack
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,vscode&perline=6)
+<!-- Animated skill icons -->
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,vscode&theme=light&perline=8" />
+
+<!-- Glow GIF -->
+<br><br>
+<img height="90" src="https://media.giphy.com/media/xTiTniuHdUjpOlNo1q/giphy.gif">
+</div>
+
+---
+
+## 🔥 Animated GitHub Stats
+<div align="center">
+
+<!-- Main Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlfaCefOf&show_icons=true&theme=radical&count_private=true&hide_border=true&custom_title=🔥%20My%20Stats" />
+
+<!-- Streak -->
+<img height="180em" src="https://streak-stats.demolab.com?user=AlfaCefOf&theme=neon-palenight&hide_border=true" />
+
+<!-- Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaCefOf&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats  
+## 🐍 THE FAMOUS ANIMATED SNAKE  
+*(This one crawls through your contribution graph!)*
+
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AlfaCefOf&show_icons=true&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=AlfaCefOf&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaCefOf&layout=compact&theme=radical)
+![snake gif](https://github.com/AlfaCefOf/AlfaCefOf/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+> ⚠️ I can also generate the files for the snake for you — just tell me and I’ll create the **workflow + SVG generator**.
+
+---
+
+## 🏆 Achievements (Animated Trophy Board)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlfaCefOf&theme=dracula&no-frame=true&row=1&column=6" />
 
 </div>
 
 ---
 
-## 🧩 Featured Projects  
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🌐 **Awesome UI** | Beautiful landing page or UI component | HTML, Tailwind, JS |
-| ⚡ **JS Tools** | Small but powerful JavaScript utilities | JS |
-| 🎨 **CSS Artwork** | Creative design experiments | CSS, Tailwind |
+## 💫 Aesthetic Motion Divider  
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.svg">
+
+---
+
+## ✨ Featured (Add your projects here)
+- ⚡ **Animated UI Components**
+- 🎨 **Tailwind Designs**
+- 🌀 **JavaScript Experiments**
+- 🌐 **Beautiful Landing Pages**
 
 ---
 
 ## 🌐 Connect With Me  
-<div align="center">  
-(Not added — tell me if you want LinkedIn, Portfolio or other links)  
-</div>
+*(Add your links if you want them included)*
 
 ---
 
-<div align="center">
-  
-✨ *Thanks for visiting my profile!* ✨  
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+## 🚀 Final Animated Wave
+<img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=0:ff00cc,100:3333ff&section=footer" />
 
