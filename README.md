@@ -1,91 +1,77 @@
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=wave&animation=twinkling&color=0:ff00cc,100:3333ff&height=220&section=header&text=⚡%20AlfaCefOf%20⚡&fontSize=55&fontAlignY=35" />
+<!-- ✨ CUSTOM ANIMATED BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3500&color=F700FF&center=true&vCenter=true&width=850&height=80&lines=⚡+Welcome+to+AlfaCefOf's+Universe+⚡;Frontend+Developer+%7C+UI+Artist+%7C+JS+Wizard;Animations+%E2%9A%A1+Design+%F0%9F%8C%88+Creativity+%F0%9F%94%A5"/>
+</p>
 
+<!-- 🌀 3D SPINNING TEXT -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d/master/assets/3d.svg" width="500">
+</p>
+
+---
+
+# 🌟 **Floating Particles Background**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alfacodeproject/particles-bg/main/particles.gif" width="100%">
+</p>
+
+---
+
+# 💥 Emoji Rain Effect (animated)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ElizaLo/READMEMaker/main/emoji-rain.gif" width="100%">
+</p>
+
+---
+
+# 🌌 **Glowing Border Card**
 <div align="center">
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=F72EFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI+Designer;Tailwind+Expert;Creative+JavaScript+Builder;Always+Learning+New+Magic" />
+<img src="https://raw.githubusercontent.com/alfacodeproject/glow-box/main/glow.gif" width="70%">
 
 </div>
 
 ---
 
-## 🎨 About Me  
-I create **beautiful**, **animated**, and **modern** user interfaces using:  
-**HTML, CSS, JavaScript, Tailwind, JSX, Git**  
-I love adding **movement**, **glow**, **neon**, and **unique visuals** to my projects.
+# 🟩 Matrix Falling Code Animation  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/matrix.svg" width="100%">
+</p>
 
 ---
 
-## 🚀 My Animated Tech Stack
-<div align="center">
-
-<!-- Animated skill icons -->
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,vscode&theme=light&perline=8" />
-
-<!-- Glow GIF -->
-<br><br>
-<img height="90" src="https://media.giphy.com/media/xTiTniuHdUjpOlNo1q/giphy.gif">
-</div>
+# 🧠 **Tech Stack (Animated)**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,vscode&perline=8">
+</p>
 
 ---
 
-## 🔥 Animated GitHub Stats
-<div align="center">
-
-<!-- Main Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlfaCefOf&show_icons=true&theme=radical&count_private=true&hide_border=true&custom_title=🔥%20My%20Stats" />
-
-<!-- Streak -->
-<img height="180em" src="https://streak-stats.demolab.com?user=AlfaCefOf&theme=neon-palenight&hide_border=true" />
-
-<!-- Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaCefOf&layout=compact&theme=radical&hide_border=true" />
-
-</div>
+# 📊 GitHub Stats (Animated)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlfaCefOf&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=AlfaCefOf&theme=neon-palenight&hide_border=true" />
+</p>
 
 ---
 
-## 🐍 THE FAMOUS ANIMATED SNAKE  
-*(This one crawls through your contribution graph!)*
+# 🐍 **Animated Snake Running Through Contributions**
+*(Will automatically update every day!)*
 
-<div align="center">
-
-![snake gif](https://github.com/AlfaCefOf/AlfaCefOf/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-> ⚠️ I can also generate the files for the snake for you — just tell me and I’ll create the **workflow + SVG generator**.
+<p align="center">
+  <img src="https://github.com/AlfaCefOf/AlfaCefOf/blob/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
-## 🏆 Achievements (Animated Trophy Board)
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlfaCefOf&theme=dracula&no-frame=true&row=1&column=6" />
-
-</div>
+# 🎆 **Animated Divider**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+</p>
 
 ---
 
-## 💫 Aesthetic Motion Divider  
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.svg">
-
----
-
-## ✨ Featured (Add your projects here)
-- ⚡ **Animated UI Components**
-- 🎨 **Tailwind Designs**
-- 🌀 **JavaScript Experiments**
-- 🌐 **Beautiful Landing Pages**
-
----
-
-## 🌐 Connect With Me  
-*(Add your links if you want them included)*
-
----
-
-## 🚀 Final Animated Wave
-<img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=0:ff00cc,100:3333ff&section=footer" />
-
+# 🪄 **Thanks for Visiting!**
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300">
+</p>
