@@ -20,22 +20,23 @@
 
 ---
 
-## 🎵 Now Playing 🔊 (Live Audio Visualizer!)
+## 🎵 Now Playing — Live Audio Visualizer 🎶
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=LYU-8IFcDPw" target="_blank">
-    <img src="https://media.giphy.com/media/l1J9u3tz7RtH2oT0A/giphy.gif" width="210" style="border-radius:16px; box-shadow: 0 0 25px #ff20ff, 0 0 40px #ff20ff66; margin: 8px;" />
-    <br><b><font color="#ff40ff">🎧 Sting – I’ll Be Missing You</font></b>
+    <img src="https://media.giphy.com/media/l1J9u3tz7RtH2oT0A/giphy.gif" width="220" style="border-radius:12px; box-shadow: 0 0 20px #ff00ff, 0 0 30px #ff00ff66; margin: 8px;" />
+    <br><b><font color="#ff00ff">🎵 Sting – Every Breath You Take</font></b>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=ApXoWvfEYVU" target="_blank">
-    <img src="https://media.giphy.com/media/3ohhwfAa3Z8g077U6c/giphy.gif" width="210" style="border-radius:16px; box-shadow: 0 0 25px #20ffff, 0 0 40px #20ffff66; margin: 8px;" />
-    <br><b><font color="#20ffff">🎧 Post Malone – Sunflower</font></b>
+    <img src="https://media.giphy.com/media/3ohhwfAa3Z8g077U6c/giphy.gif" width="220" style="border-radius:12px; box-shadow: 0 0 20px #00ffff, 0 0 30px #00ffff66; margin: 8px;" />
+    <br><b><font color="#00ffff">🎵 Post Malone – Sunflower</font></b>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oz8xLd9DJq2l2VFtu/giphy.gif" width="340" alt="Neon Audio Visualizer" style="border-radius:12px; margin-top:12px;" />
-  <br><i><font size="3" color="#ff60ff">🔊 These tracks are LIVE in my dev environment!</font></i>
+  <img src="https://media.giphy.com/media/3oz8xLd9DJq2l2VFtu/giphy.gif" width="360" style="border-radius:10px; margin-top:12px;" alt="Neon Audio Visualizer" />
+  <br><i><font size="3" color="#ff60ff">🔊 The beat drops every time I commit code.</font></i>
 </p>
 
 ---
